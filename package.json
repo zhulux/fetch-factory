@@ -1,7 +1,7 @@
 {
-  "name": "fetch-factory",
-  "version": "0.2.1",
-  "description": "Easy JS objects for talking to your APIs",
+  "name": "zl-fetch-factory",
+  "version": "0.1.0",
+  "description": "Fetch-factory's copy",
   "main": "lib/index.js",
   "scripts": {
     "example": "open http://localhost:8000/example && python -m SimpleHTTPServer",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackfranklin/fetch-factory.git"
+    "url": "https://github.com/zhulux/fetch-factory.git"
   },
   "author": "",
   "license": "ISC",
